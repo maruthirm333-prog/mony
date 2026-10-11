@@ -1,5 +1,5 @@
 # MONY 📊
-
+<<ONLY FOR THE INTRADY IN EQUITY ONLY>>
 **Indian Equity Market Intelligence Platform**
 
 > MONY helps people understand the market. It does not tell them what to buy or sell.
